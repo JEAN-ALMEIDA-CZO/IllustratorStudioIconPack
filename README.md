@@ -1,4 +1,4 @@
-# ✏️ Illustrator Studio - Icon Pack for Ulanzi Studio
+# Illustrator Studio - Icon Pack for Ulanzi Studio
 
 ![Illustrator Studio Banner](Illustrator_Studio_Icon_Pack.jpeg)
 
