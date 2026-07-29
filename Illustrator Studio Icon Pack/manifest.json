@@ -1,0 +1,23 @@
+{
+  "Version": "1.0.0",
+  "UUID": "com.ulanzi.icon.IllustratorStudio",
+  "Author": "Jean Almeida",
+  "Name": "Illustrator Studio Icon Pack",
+  "Description": "71 icons for Ulanzi Studio: detailed Adobe Illustrator command icons: artboards, strokes and effects, ready to drop onto any key.",
+  "Descriptions": {
+    "en": "71 icons for Ulanzi Studio: detailed Adobe Illustrator command icons: artboards, strokes and effects, ready to drop onto any key.",
+    "pt": "71 ícones para o Ulanzi Studio: ícones detalhados de comandos do Adobe Illustrator: pranchetas, traços e efeitos, prontos a usar em qualquer tecla.",
+    "es": "71 iconos para Ulanzi Studio: iconos detallados de comandos de Adobe Illustrator: mesas de trabajo, trazos y efectos, listos para cualquier tecla.",
+    "de": "71 Icons für Ulanzi Studio: detaillierte Adobe-Illustrator-Befehls-Icons: Zeichenflächen, Konturen und Effekte, bereit für jede Taste.",
+    "fr": "71 icônes pour Ulanzi Studio : icônes détaillées de commandes Adobe Illustrator : plans de travail, contours et effets, prêtes pour n'importe quelle touche.",
+    "it": "71 icone per Ulanzi Studio: icone dettagliate dei comandi di Adobe Illustrator: tavole da disegno, tratti ed effetti, pronte per qualsiasi tasto.",
+    "ru": "71 иконок для Ulanzi Studio: подробные иконки команд Adobe Illustrator: монтажные области, обводки и эффекты, готовые для любой клавиши.",
+    "ja": "Ulanzi Studio 用の71個のアイコン。アートボード・線・エフェクトなど、Adobe Illustratorの詳細なコマンドアイコンを収録し、どのキーにもすぐに使えます。",
+    "ko": "Ulanzi Studio를 위한 71개의 아이콘: 아트보드, 선 및 효과 등 Adobe Illustrator 세부 명령 아이콘을(를) 담아 모든 키에 바로 사용할 수 있습니다.",
+    "zh": "71个图标，适用于 Ulanzi Studio：Adobe Illustrator 详细命令图标：画板、描边和效果，可直接用于任意按键。"
+  },
+  "Category": "Software",
+  "IconCount": 71,
+  "Format": "png",
+  "Animated": false
+}
